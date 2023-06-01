@@ -10,7 +10,7 @@ URL = 'https://code.interaktiv.de/interaktiv/volto/interaktiv.volto_animated_lay
 EMAIL = 'support@interaktiv.de'
 AUTHOR = 'Interaktiv GmbH'
 REQUIRES_PYTHON = '~=3.10'
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 REQUIRES_PLONE_VERSION = '6.0.0'
 
 REQUIRED = [
