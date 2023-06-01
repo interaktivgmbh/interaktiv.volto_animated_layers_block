@@ -1,0 +1,3 @@
+<configure xmlns="http://namespaces.zope.org/zope" i18n_domain="interaktiv.volto_animated_layers_block">
+    <include package=".views"/>
+</configure>

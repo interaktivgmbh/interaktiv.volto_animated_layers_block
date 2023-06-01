@@ -1,0 +1,12 @@
+<configure
+        xmlns="http://namespaces.zope.org/zope"
+        xmlns:browser="http://namespaces.zope.org/browser">
+
+    <browser:page
+            name="display-file-svg"
+            for="*"
+            class=".display_file_svg.DisplayFileSvg"
+            permission="zope2.View"
+    />
+
+</configure>
