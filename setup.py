@@ -21,7 +21,6 @@ EXTRAS = {
     'test': ['plone.app.testing']
 }
 
-
 # Check required python version
 def check_python_version():
     required_python = Requirement.parse('python' + REQUIRES_PYTHON)
